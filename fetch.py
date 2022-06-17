@@ -6,3 +6,5 @@ class Fetch:
 
     def Fetch_data(self, end_url):
         return requests.get(url=f"{self.base_url}{end_url}").json()
+
+    
