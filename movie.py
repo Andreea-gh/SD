@@ -2,6 +2,7 @@ from tabulate import tabulate
 import sys
 import subprocess
 
+
 class Movie:
     def __init__(self, movie_list):
         self.valid_index = True
