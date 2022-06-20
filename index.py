@@ -2,7 +2,7 @@ from fetch import Fetch
 from movie import Movie
 
 
-title_art = r"""Sistemas Distribuidos     """
+title_art = r"""Sistemas Distribuidos  """
 print(title_art+'\n')
 
 
